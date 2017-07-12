@@ -1,0 +1,19 @@
+{
+  "id": "p3",
+  "imageUrl": "image/company-3.png",
+  "name": "销售",
+  "companyId": "c3",
+  "companyName": "哈哈，我是皮包公司",
+  "cityId": "c1",
+  "cityName": "上海",
+  "scaleId": "s3",
+  "scaleName": "50000人以上",
+  "industryId": "i1",
+  "industryName": "传销",
+  "salaryId": "s2",
+  "salaryName": "1k-2k",
+  "experience": "1-3年",
+  "education": "初中",
+  "benefit": "成长空间巨大",
+  "description": "岗位职责：\n1.坑蒙拐骗；..."
+}

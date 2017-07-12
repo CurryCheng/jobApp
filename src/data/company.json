@@ -1,0 +1,27 @@
+{
+    "id": "c1",
+    "imageUrl": "image/company-1.png",
+    "name": "腾讯",
+    "industry": "移动互联网",
+    "state": "D轮",
+    "people": "2000人以上",
+    "positionClass": [{
+      "id": "jishu",
+      "name": "技术",
+      "positionList": [{
+        "id": "p1",
+        "name": "IOS前端工程师",
+        "createdDate": "2017-07-10 23:30",
+        "salary": "15k-25k"
+      }]
+    }, {
+      "id": "yunying",
+      "name": "运营",
+      "positionList": [{
+        "id": "y1",
+        "name": "运营总监",
+        "createdDate": "2017-07-10 13:30",
+        "salary": "25k以上"
+      }]
+    }]
+}
