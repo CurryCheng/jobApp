@@ -24,3 +24,5 @@ gulp
 5. src目录中的 data 文件夹为假数据，直接放置到项目的 src 目录即可。
 
 6. 浏览器输入http://localhost:1234/
+
+7.hello
